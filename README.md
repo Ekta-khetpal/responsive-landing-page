@@ -15,12 +15,14 @@ It was created as part of my frontend development practice to explore **layout d
 • **JavaScript** (basic) 
 
 ## 📂 Project Structure  
-   │
-   ├── css # CSS folder
-   │ │── style.css # Main stylesheet for layout and design
-   │ │── responsive.css # Stylesheet for responsive breakpoints
-   │
-   ├── website-images/img # Folder containing all images used in the project
-   │
-   │── index.html # Main landing page file
-   │── script.js # JavaScript file for interactions
+
+    travel-website/
+	│  
+	├── css/                     # Contains stylesheets  
+	│   │── style.css            # Main stylesheet for layout and design  
+	│   │── responsive.css       # Stylesheet for responsive breakpoints  
+	│  
+	├── website-images/          # Contains all images (organized into subfolders)  
+	│  
+	│── index.html               # Main landing page file  
+	│── script.js                # JavaScript file for interactions 
