@@ -1,2 +1,26 @@
-# responsive-landing-page
-🚀 A responsive landing page built with HTML, CSS, and a little JavaScript. Includes separate stylesheets for layout and responsiveness.
+# Responsive-landing-page
+
+This is a **responsive landing page** built using **HTML & CSS** (with a little bit of JavaScript).  
+It was created as part of my frontend development practice to explore **layout design** and **responsiveness**.  
+
+## ✨ Features  
+• 📱 Fully responsive design (works on mobile, tablet, and desktop)  
+• 🎨 Clean and modern UI design  
+• 🌱 Beginner-friendly HTML & CSS practice with structured files  
+
+
+## 🛠️ Technologies Used  
+• **HTML5**  
+• **CSS3** (with separate responsive stylesheet)  
+• **JavaScript** (basic) 
+
+## 📂 Project Structure  
+   │
+   ├── css # CSS folder
+   │ │── style.css # Main stylesheet for layout and design
+   │ │── responsive.css # Stylesheet for responsive breakpoints
+   │
+   ├── website-images/img # Folder containing all images used in the project
+   │
+   │── index.html # Main landing page file
+   │── script.js # JavaScript file for interactions
